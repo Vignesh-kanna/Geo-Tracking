@@ -1,0 +1,118 @@
+{
+  "profiles": [
+    {
+      "id": "462f",
+      "email": "shabadvignesh2004@gmail.com",
+      "username": "ronfoaw",
+      "bio": "naowrij",
+      "location": "mtpme",
+      "profilePicture": "nwaro"
+    },
+    {
+      "id": "8cb7",
+      "email": "shabadvignesh2004@gmail.com",
+      "username": "ronfoaw",
+      "bio": "naowrij",
+      "location": "mtpme",
+      "profilePicture": "nwaro"
+    },
+    {
+      "id": "67fc",
+      "email": "shabadvignesh2004@gmail.com",
+      "username": "ronfoaw",
+      "bio": "naowrij",
+      "location": "mtpme",
+      "profilePicture": "nwaro"
+    },
+    {
+      "id": "5176",
+      "email": "shabadvignesh2004@gmail.com",
+      "username": "ronfoaw",
+      "bio": "naowrij",
+      "location": "mtpme",
+      "profilePicture": "nwaro"
+    },
+    {
+      "id": "80e0",
+      "email": "2311cs020562@mallareddyuniversity.ac.in",
+      "username": "vignesh",
+      "bio": "jkfbck",
+      "location": "hyd",
+      "profilePicture": ""
+    },
+    {
+      "id": "6650",
+      "email": "2311cs020562@mallareddyuniversity.ac.in",
+      "username": "vignesh",
+      "bio": "yg",
+      "location": "gfyu",
+      "profilePicture": ""
+    },
+    {
+      "id": "07f5",
+      "email": "2311cs020562@mallareddyuniversity.ac.in",
+      "username": "vignesh",
+      "bio": "yg",
+      "location": "gfyu",
+      "profilePicture": ""
+    },
+    {
+      "id": "0eda",
+      "email": "2311cs020562@mallareddyuniversity.ac.in",
+      "username": "vignesh",
+      "bio": "yg",
+      "location": "gfyu",
+      "profilePicture": ""
+    },
+    {
+      "id": "bd80",
+      "email": "qwerty@uio.com",
+      "username": "@234",
+      "bio": "yg",
+      "location": "hyd",
+      "profilePicture": "https://www.gmail.com"
+    }
+  ],
+  "users": [
+    {
+      "email": "shabadvignesh2004@gmail.com",
+      "id": "0bd1"
+    },
+    {
+      "id": "5bac",
+      "username": "vignesh",
+      "email": "2311cs020613@mallareddyuniversity.ac.in",
+      "password": "Sharath123@"
+    },
+    {
+      "id": "666c",
+      "username": "vignesh",
+      "email": "shabadvignesh2003@gmail.com",
+      "password": "vignesh"
+    },
+    {
+      "id": "3cde",
+      "username": "vignesh",
+      "email": "sharath@gmail.com",
+      "password": "Sharath123@"
+    },
+    {
+      "id": "c81c",
+      "username": "vignesh",
+      "email": "2311cs020562@mallareddyuniversity.ac.in",
+      "password": "12345"
+    },
+    {
+      "id": "a1da",
+      "username": "sharath",
+      "email": "vignesh@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "d585",
+      "username": "233@12",
+      "email": "asdfgh@qwerty.com",
+      "password": "asdfghjkl"
+    }
+  ]
+}

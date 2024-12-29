@@ -1,0 +1,64 @@
+/* Profile Container */
+.profile-container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+  background: #f3f8ff;
+  border-radius: 10px;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Profile Picture */
+.profile-picture img {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  border: 3px solid #4d85d1;
+  background-color: #e0eafc;
+  padding: 5px;
+}
+
+/* Profile Information */
+.profile-info {
+  margin-top: 15px;
+}
+
+.profile-info h2 {
+  color: #333;
+  font-size: 1.5em;
+  margin-bottom: 5px;
+}
+
+.profile-info p {
+  color: #555;
+  font-size: 1em;
+  margin: 0;
+}
+
+/* Profile Details */
+.profile-details {
+  margin-top: 20px;
+  text-align: left;
+  background: #ffffff;
+  padding: 15px;
+  border-radius: 8px;
+  box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.profile-details h3 {
+  color: #4d85d1;
+  font-size: 1.2em;
+  margin-bottom: 8px;
+}
+
+.profile-details p {
+  color: #666;
+  margin: 4px 0;
+  font-size: 0.95em;
+}
+
+/* Add some margin between the sections */
+.profile-details + .profile-details {
+  margin-top: 15px;
+}

@@ -1,0 +1,10 @@
+.auth-container p.message {
+    color: green; /* Color for successful messages */
+    font-weight: bold;
+  }
+  
+  .auth-container p.error {
+    color: red; /* Color for error messages */
+    font-weight: bold;
+  }
+  
